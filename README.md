@@ -8,7 +8,7 @@
 
 
 ### 목표
-- [ ] : [MNIST 학습 - 숫자를 구분하는 가장 최소의 모델은 무엇인가?](https://github.com/SagiK-Repository/AI_-Learning_Experiment/tree/main)
+- [ ] : [MNIST 학습 - 숫자를 구분하는 가장 최소의 모델은 무엇인가?](https://github.com/SagiK-Repository/AI_-Learning_Experiment/blob/main/%EC%97%B0%EA%B5%AC%ED%8F%B4%EB%8D%94/MNIST%20%ED%95%99%EC%8A%B5%20%EC%97%B0%EA%B5%AC.md)
 
 
 ### 제작자
